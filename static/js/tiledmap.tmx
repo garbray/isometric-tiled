@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="10" height="10" tilewidth="64" tileheight="32">
+ <tileset firstgid="1" name="tiled_cave_1" tilewidth="64" tileheight="128">
+  <image source="../../../../../../Users/garbray/Downloads/tiled_cave_1.png" width="1024" height="1920"/>
+ </tileset>
+ <layer name="floor" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjZ2BgYCEBq0NpdijWwKGOHQefGUmMGUkOXZwdi152NLux2YNLjAWLvehmMqPJobtFjcSwQreLGDcCANFTAiQ=
+  </data>
+ </layer>
+ <layer name="walls" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJwLZ2BgMAJiMyiGsZOQxKyA2JCBMDAH4kQi1QUSqS6SSHXEuo9YdaFEqiPWHzZAbIFHDUjOGogB1c4HSQ==
+  </data>
+ </layer>
+ <layer name="columns" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYECAOAb8oIWAPDpoRGK3kqAWH+gi0Q24QBMQx5NhPzZAyG+kAABquATb
+  </data>
+ </layer>
+</map>

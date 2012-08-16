@@ -1,0 +1,3 @@
+require(['widget/mapdraw'],function(){
+	
+})
